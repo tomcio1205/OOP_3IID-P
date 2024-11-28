@@ -2,6 +2,8 @@
 using OOP_3IID_P.Constructions;
 using OOP_3IID_P.Constructions.models;
 using OOP_3IID_P.Constructions.models.DTO;
+using OOP_3IID_P.IndustrialHalls;
+using OOP_3IID_P.ResidentalBuildings;
 
 Console.WriteLine("Hello, World!");
 var house = new Construction();
@@ -28,3 +30,26 @@ Console.WriteLine(house.Height);
 Console.WriteLine(house.BuildMaterial);
 Console.WriteLine(house.getSquareCost());
 
+var industrialHall = new IndustrialHall(
+    new CreateConstructionDto()
+    {
+        HumanCapacity = 5,
+        Width = 1,
+        Height = 3,
+        BuildMaterial = BuildMaterialEnum.Brik
+    }
+);
+var residentalBuilding = new ResidentalBuilding(3);
+
+Console.WriteLine(industrialHall.HumanCapacity);
+Console.WriteLine(industrialHall.Entrances);
+Console.WriteLine(industrialHall.Width);
+Console.WriteLine(industrialHall.Height);
+Console.WriteLine(industrialHall.BuildMaterial);
+
+Console.WriteLine(residentalBuilding.HumanCapacity);
+Console.WriteLine(residentalBuilding.Entrances);
+Console.WriteLine(residentalBuilding.Width);
+Console.WriteLine(residentalBuilding.Height);
+Console.WriteLine(residentalBuilding.BuildMaterial);
+Console.WriteLine(residentalBuilding.NumberOfFloors);

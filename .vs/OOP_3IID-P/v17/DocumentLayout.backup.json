@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\trajzer\\Documents\\OOP_3IID-P\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|c:\\users\\trajzer\\documents\\oop_3iid-p\\oop_3iid-p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|solutionrelative:oop_3iid-p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|c:\\users\\trajzer\\documents\\oop_3iid-p\\oop_3iid-p\\industrialhalls\\industrialhall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|solutionrelative:oop_3iid-p\\industrialhalls\\industrialhall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|c:\\users\\trajzer\\documents\\oop_3iid-p\\oop_3iid-p\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|solutionrelative:oop_3iid-p\\constructions\\construction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|c:\\users\\trajzer\\documents\\oop_3iid-p\\oop_3iid-p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|solutionrelative:oop_3iid-p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|c:\\users\\trajzer\\documents\\oop_3iid-p\\oop_3iid-p\\residentalbuildings\\residentalbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|solutionrelative:oop_3iid-p\\residentalbuildings\\residentalbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|c:\\users\\trajzer\\documents\\oop_3iid-p\\oop_3iid-p\\oop_3iid-p.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|solutionrelative:oop_3iid-p\\oop_3iid-p.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|c:\\users\\trajzer\\documents\\oop_3iid-p\\oop_3iid-p\\constructions\\models\\dto\\createconstructiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|c:\\users\\trajzer\\documents\\oop_3iid-p\\oop_3iid-p\\constructions\\models\\buildmaterialenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|solutionrelative:oop_3iid-p\\constructions\\models\\buildmaterialenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|c:\\users\\trajzer\\documents\\oop_3iid-p\\oop_3iid-p\\oop_3iid-p.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AE111B29-3CBF-440A-86AD-AA79BA0A81DA}|OOP_3IID-P\\OOP_3IID-P.csproj|solutionrelative:oop_3iid-p\\oop_3iid-p.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +38,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ResidentalBuilding.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP_3IID-P\\OOP_3IID-P\\ResidentalBuildings\\ResidentalBuilding.cs",
+              "RelativeDocumentMoniker": "OOP_3IID-P\\ResidentalBuildings\\ResidentalBuilding.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP_3IID-P\\OOP_3IID-P\\ResidentalBuildings\\ResidentalBuilding.cs",
+              "RelativeToolTip": "OOP_3IID-P\\ResidentalBuildings\\ResidentalBuilding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:28:44.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndustrialHall.cs",
+              "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP_3IID-P\\OOP_3IID-P\\IndustrialHalls\\IndustrialHall.cs",
+              "RelativeDocumentMoniker": "OOP_3IID-P\\IndustrialHalls\\IndustrialHall.cs",
+              "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP_3IID-P\\OOP_3IID-P\\IndustrialHalls\\IndustrialHall.cs",
+              "RelativeToolTip": "OOP_3IID-P\\IndustrialHalls\\IndustrialHall.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:27:57.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BuildMaterialEnum.cs",
               "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP_3IID-P\\OOP_3IID-P\\Constructions\\models\\BuildMaterialEnum.cs",
               "RelativeDocumentMoniker": "OOP_3IID-P\\Constructions\\models\\BuildMaterialEnum.cs",
@@ -42,12 +80,11 @@
               "RelativeToolTip": "OOP_3IID-P\\Constructions\\models\\BuildMaterialEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T13:45:24.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T13:45:24.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CreateConstructionDto.cs",
               "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP_3IID-P\\OOP_3IID-P\\Constructions\\models\\DTO\\CreateConstructionDto.cs",
               "RelativeDocumentMoniker": "OOP_3IID-P\\Constructions\\models\\DTO\\CreateConstructionDto.cs",
@@ -55,13 +92,12 @@
               "RelativeToolTip": "OOP_3IID-P\\Constructions\\models\\DTO\\CreateConstructionDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T13:27:34.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T13:27:34.413Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "OOP_3IID-P",
+              "Title": "OOP_3IID-P.csproj",
               "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP_3IID-P\\OOP_3IID-P\\OOP_3IID-P.csproj",
               "RelativeDocumentMoniker": "OOP_3IID-P\\OOP_3IID-P.csproj",
               "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP_3IID-P\\OOP_3IID-P\\OOP_3IID-P.csproj",
@@ -79,20 +115,20 @@
               "RelativeDocumentMoniker": "OOP_3IID-P\\Constructions\\Construction.cs",
               "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP_3IID-P\\OOP_3IID-P\\Constructions\\Construction.cs",
               "RelativeToolTip": "OOP_3IID-P\\Constructions\\Construction.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwD0AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAvwBUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T12:33:38.56Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\trajzer\\Documents\\OOP_3IID-P\\OOP_3IID-P\\Program.cs",
               "RelativeDocumentMoniker": "OOP_3IID-P\\Program.cs",
               "ToolTip": "C:\\Users\\trajzer\\Documents\\OOP_3IID-P\\OOP_3IID-P\\Program.cs",
               "RelativeToolTip": "OOP_3IID-P\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T12:20:15.191Z",
               "EditorCaption": ""
