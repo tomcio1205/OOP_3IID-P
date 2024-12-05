@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP_3IID-P")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7fecf1cdcaa5bcd85da2dfa70d15df348b19074")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdb27ebedb278d3e836dfb6ad063ce2d61ff8657")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP_3IID-P")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP_3IID-P")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

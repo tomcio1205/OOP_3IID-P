@@ -1,14 +1,16 @@
 ﻿using OOP_3IID_P.Constructions.models;
 using OOP_3IID_P.Constructions.models.DTO;
+using OOP_3IID_P.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace OOP_3IID_P.Constructions
 {
-    internal class Construction
+    internal class Construction: ISquareCost, IConstructionInfo
     {
         public Construction()
         {
@@ -60,6 +62,24 @@ namespace OOP_3IID_P.Constructions
             if (_buildMaterial == BuildMaterialEnum.Brik)
                 return Width * Height * 0.9f * 0.8f;
             return Width * Height * 0.9f * 0.78f; //Wood
+        }
+
+        public double CalculateSquareCost()
+        {
+            return getSquareCost();
+        }
+
+        public void DisplayCostDetails()
+        {
+            Console.WriteLine($"Square cost details for the building: ");
+            Console.WriteLine($"Height: {Height}, Width: {Width}, Entrances: {Entrances}, Human Capacity: {HumanCapacity}, Build Material: { BuildMaterial} ");
+            Console.WriteLine($"Square Cost: {CalculateSquareCost()}");
+        }
+
+        public void DisplayConstructionInfo()
+        {
+            Console.WriteLine($"Construction information for the building: ");
+            Console.WriteLine($"Height: {Height}, Width: {Width}, Entrances: { Entrances}, Human Capacity: { HumanCapacity}, Build Material: { BuildMaterial}");
         }
     }
 }

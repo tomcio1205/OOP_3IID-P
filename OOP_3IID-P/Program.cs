@@ -4,6 +4,7 @@ using OOP_3IID_P.Constructions.models;
 using OOP_3IID_P.Constructions.models.DTO;
 using OOP_3IID_P.IndustrialHalls;
 using OOP_3IID_P.ResidentalBuildings;
+using OOP_3IID_P.Wrappers;
 
 Console.WriteLine("Hello, World!");
 var house = new Construction();
@@ -53,3 +54,9 @@ Console.WriteLine(residentalBuilding.Width);
 Console.WriteLine(residentalBuilding.Height);
 Console.WriteLine(residentalBuilding.BuildMaterial);
 Console.WriteLine(residentalBuilding.NumberOfFloors);
+//Console.WriteLine(residentalBuilding.DisplayCostDetails());
+
+var wrapped1 = new BuildingWrapper(residentalBuilding);
+var wrapped2 = new BuildingWrapper(industrialHall);
+Console.WriteLine(wrapped1.GetWrappedSquareCost());
+Console.WriteLine(wrapped2.GetWrappedSquareCost());
